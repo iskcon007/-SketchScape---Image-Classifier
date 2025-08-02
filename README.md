@@ -62,10 +62,6 @@ This project also serves as a foundational exercise in deploying computer vision
 
 
 🔧 Setup & Installation
-**Clone the repository**
-
-git clone https://github.com/Iskcon/sketchscape.git
-cd sketchscape
 
 Create a virtual environment
 python -m venv venv
